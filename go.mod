@@ -1,3 +1,3 @@
 module basic_http_server
 
-go 1.20.10
+go 1.20
